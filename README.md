@@ -1,5 +1,5 @@
-# Hangman Game (Android)
+# Hangman Game : Android
 
-A simple hangman mobile game 📱 for Android, using **SQLite**.
+A simple hangman mobile game (Android) 📱 using **SQLite**.
 
-Written on **Java** with Android Studio. 
+Written in **Java** with Android Studio.
